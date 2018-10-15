@@ -37,7 +37,7 @@ return [
     'google' => [
         'client_id'     => '640026763195-t1hvstj86s08tab0ioelq99fdliv29gv.apps.googleusercontent.com',
         'client_secret' => 'Ily2wCZrP0ucHLEgTYbjfSdI',
-        'redirect'      => 'http://localhost:8000/callback'
+        'redirect'      => 'http://localhost:8000/googleCallback'
     ],
 
     'facebook' => [
